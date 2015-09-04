@@ -2,23 +2,6 @@ a {
     cursor: pointer;
 }
 
-.spoiler {
-    background-color: red;
-}
-
-blockquote {
-    background-color: lightyellow;
-}
-
-pre {
-    background-color: lightgray;
-    text-indent: 40px;
-}
-
-code {
-    background-color: gray;
-}
-
 .wysiwygBtn {
     background-image: url('http://meta.stackexchange.com/content/stackexchangemeta/img/wmd-buttons.svg'), none;
     background-size: initial !important;
